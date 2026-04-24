@@ -1,0 +1,15 @@
+node_modules/
+.svelte-kit/
+.svelte-kit/output/
+.env
+*.pyc
+__pycache__/
+backend/.env
+frontend/.env
+media/
+*.zip
+__pycache__/
+.venv/
+.env
+node_modules/
+.svelte-kit/output/
